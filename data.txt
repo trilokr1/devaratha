@@ -1,0 +1,7 @@
+# Employee Data File
+# Confidential
+Name	Age	City	Role
+Tom	40	Boston	Manager
+Jerry	29	Seattle	Analyst
+Spike	33	Denver	Developer
+Tyke	22	Austin	Intern
